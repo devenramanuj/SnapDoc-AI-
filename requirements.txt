@@ -1,0 +1,5 @@
+```text
+flask>=3.0.0
+onnxruntime>=1.18.0
+numpy>=1.24.0
+pypdf>=4.0.0
